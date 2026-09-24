@@ -1,2 +1,1 @@
-# zedeaker-dev.github.io
-DesignForTheWeb
+# thefeed

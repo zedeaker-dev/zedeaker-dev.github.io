@@ -1,0 +1,23 @@
+body{
+     background-color: rgb(53, 25, 23);
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainlink{
+    color: rgb(249, 225, 195);
+    font-family: "farm", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 100px;
+}
+
+
+
